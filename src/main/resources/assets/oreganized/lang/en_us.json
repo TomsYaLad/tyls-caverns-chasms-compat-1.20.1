@@ -1,0 +1,24 @@
+{
+
+  "item.oreganized.raw_silver": "Raw Galena",
+  "item.oreganized.crushed_silver": "Crushed Galena",
+  "item.oreganized.silver_ingot": "Galena Ingot",
+  "item.oreganized.silver_nugget": "Galena Nugget",
+
+
+  "block.oreganized.silver_ore": "Galena Ore",
+  "block.oreganized.deepslate_silver_ore": "Deepslate Galena Ore",
+  "block.oreganized.raw_silver_block": "Raw Galena Block",
+  "block.oreganized.silver_block": "Galena Block",
+  "block.oreganized.cut_silver": "Cut Galena",
+  "block.oreganized.engraved_cut_silver": "Engraved Cut Galena",
+  "block.oreganized.raw_silver_bricks": "Raw Galena Bricks",
+  "block.oreganized.silver_bars": "Galena Bars",
+  "block.oreganized.silver_pillar": "Galena Pillar",
+
+  "block.oreganized.tarnished_cut_silver": "Tarnished Cut Galena",
+  "block.oreganized.tarnished_engraved_cut_silver": "Tarnished Engraved Cut Galena",
+  "block.oreganized.tarnished_silver_bars": "Tarnished Galena Bars",
+  "block.oreganized.tarnished_silver_pillar": "Tarnished Galena Pillar"
+
+}
