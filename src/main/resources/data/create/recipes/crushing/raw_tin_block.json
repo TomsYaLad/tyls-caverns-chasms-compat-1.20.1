@@ -1,0 +1,30 @@
+{
+  "type": "create:crushing",
+  "conditions": [
+	{
+	  "type": "forge:mod_loaded",
+	  "modid": "create"
+	},
+	{
+	  "type": "forge:item_exists",
+	  "item": "caverns_and_chasms:raw_tin"
+	}
+  ],
+  "ingredients": [
+    {
+      "item": "caverns_and_chasms:raw_tin_block"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 9,
+      "item": "create:crushed_raw_tin"
+    },
+    {
+      "chance": 0.75,
+      "count": 9,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

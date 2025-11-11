@@ -1,0 +1,39 @@
+{
+  "type": "create:milling",
+  "conditions": [
+	{
+	  "type": "forge:mod_loaded",
+	  "modid": "create"
+	},
+	{
+	  "type": "forge:mod_loaded",
+	  "modid": "oreganized"
+	}
+  ],
+  "ingredients": [
+    {
+      "item": "oreganized:silver_ingot"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "count": 6,
+      "item": "oreganized:lead_nugget"
+    },
+    {
+      "chance": 0.5,
+      "count": 3,
+      "item": "oreganized:lead_nugget"
+    },
+    {
+      "count": 4,
+      "item": "caverns_and_chasms:silver_nugget"
+    },
+    {
+      "chance": 0.5,
+      "count": 2,
+      "item": "caverns_and_chasms:silver_nugget"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "conditions": [
+	{
+	  "type": "forge:mod_loaded",
+	  "modid": "oreganized"
+	},
+	{
+	  "type": "forge:not",
+	  "value": {
+	    "type": "forge:mod_loaded",
+	    "modid": "create"
+	}
+    }
+  ],
+  "ingredients": [
+    {
+      "tag": "forge:ingots/lead"
+    },
+    {
+      "tag": "forge:ingots/lead"
+    },
+    {
+      "tag": "forge:ingots/lead"
+    },
+    {
+      "tag": "tylscavernschasmscompat:pure_silver_ingot"
+    },
+    {
+      "tag": "tylscavernschasmscompat:pure_silver_ingot"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "oreganized:silver_ingot"
+  }
+}

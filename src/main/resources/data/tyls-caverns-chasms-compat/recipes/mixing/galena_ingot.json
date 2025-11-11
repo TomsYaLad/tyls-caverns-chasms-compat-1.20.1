@@ -1,0 +1,41 @@
+{
+  "type": "create:mixing",
+  "conditions": [
+	{
+	  "type": "forge:mod_loaded",
+	  "modid": "create"
+	},
+	{
+	  "type": "forge:mod_loaded",
+	  "modid": "oreganized"
+	}
+  ],
+  "ingredients": [
+    {
+      "tag": "forge:ingots/lead"
+    },
+    {
+      "tag": "tylscavernschasmscompat:pure_silver_nugget"
+    },
+    {
+      "tag": "tylscavernschasmscompat:pure_silver_nugget"
+    },
+    {
+      "tag": "tylscavernschasmscompat:pure_silver_nugget"
+    },
+    {
+      "tag": "tylscavernschasmscompat:pure_silver_nugget"
+    },
+    {
+      "tag": "tylscavernschasmscompat:pure_silver_nugget"
+    },
+    {
+      "tag": "tylscavernschasmscompat:pure_silver_nugget"
+    }
+  ],
+  "results": [
+    {
+      "item": "oreganized:silver_ingot"
+    }
+  ]
+}
